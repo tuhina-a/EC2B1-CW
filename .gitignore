@@ -1,2 +1,6 @@
 .venv/
 .idea/
+etc/
+Lib/
+Scripts/
+share/
